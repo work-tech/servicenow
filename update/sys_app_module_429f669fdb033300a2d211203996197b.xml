@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Needlt">0a9f669fdb033300a2d2112039961978</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Needlts</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_391110_needlt_needlt</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_391110_needlt.needlt_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-09 09:03:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>429f669fdb033300a2d211203996197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needlts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needlt" source="x_391110_needlt">7e706a17db033300a2d211203996198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">7e706a17db033300a2d211203996198f</sys_scope>
+        <sys_update_name>sys_app_module_429f669fdb033300a2d211203996197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-09 09:03:06</sys_updated_on>
+        <timeline_page/>
+        <title>Needlts</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

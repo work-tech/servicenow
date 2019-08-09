@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_391110_needlt_needlt</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-09 09:03:07</sys_created_on>
+        <sys_id>1e9f669fdb033300a2d21120399619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_391110_needlt_needlt</sys_name>
+        <sys_package display_value="Needlt" source="x_391110_needlt">7e706a17db033300a2d211203996198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">7e706a17db033300a2d211203996198f</sys_scope>
+        <sys_update_name>ua_table_licensing_config_1e9f669fdb033300a2d21120399619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-09 09:03:07</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
